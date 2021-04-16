@@ -1,7 +1,7 @@
 body {
     background-color: #557a95;
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100%;
 }
 
 .header {
@@ -18,10 +18,7 @@ body {
 .image {
     border-radius: 50%;
     border: 5px solid black;
-    margin-top: 25px;
-    margin-left: 325px;
-    margin-bottom: 25px;
-    margin-right: 100px;
+    margin: 25px 100px 25px 325px;
     height: 300px;
     width: 300px;
     padding: 20 20 20 20;
@@ -39,8 +36,9 @@ li {
 .container {
     border: 10px solid black;
     background-color: #daad86;
+    margin: 25px 100px 25px 200px;
     padding: 15px;
-    width: auto;
+    width: 50%;
     height: auto;
 }
 
