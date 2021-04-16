@@ -1,0 +1,50 @@
+body {
+    background-color: #557a95;
+    width: auto;
+    height: auto;
+}
+
+.header {
+    font-weight: bold;
+    border: 5px solid black;
+    text-align: center;
+    padding: 20 20 20 20;
+    margin: -5px;
+    margin-left: 240px;
+    width: 50%;
+    padding: 20 20 20 20;
+}
+
+.image {
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-top: 25px;
+    margin-left: 325px;
+    margin-bottom: 25px;
+    margin-right: 100px;
+    height: 300px;
+    width: 300px;
+    padding: 20 20 20 20;
+}
+
+span {
+    font-weight: bold;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.container {
+    border: 10px solid black;
+    background-color: #daad86;
+    padding: 15px;
+    width: auto;
+    height: auto;
+}
+
+p {
+    margin: 0px;
+    text-align: center;
+}
